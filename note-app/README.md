@@ -1,12 +1,19 @@
-# React + Vite
+# 📝 NotesApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React ile geliştirilmiş basit bir not uygulamasıdır. Kullanıcılar not ekleyebilir, notlara renk atayabilir ve ekledikleri notları arama kutusu ile filtreleyebilir. Seçilen renk not kutusunda ve renk seçiminde aktif olarak görüntülenir.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Proje Özellikleri
 
-## Expanding the ESLint configuration
+✅ Not yazma ve listeleme  
+✅ Renk seçerek not oluşturma  
+✅ Seçilen renge göre notun arka planının belirlenmesi  
+✅ Notları metne göre filtreleme (canlı arama)  
+✅ Temiz ve görsel olarak sade bir arayüz  
+✅ Tüm yapı React ile hazırlanmıştır
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Görseli ektedir :)
+![NotesApp](https://github.com/user-attachments/assets/e21b97ab-2990-4d17-82d6-344bffed5d84)
